@@ -191,7 +191,12 @@ button1.onclick = function() {
 updateGallery();
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-26 123906.png>)
+![alt text](<Screenshot 2025-12-26 152802.png>)
+![alt text](<Screenshot 2025-12-26 152816.png>)
+![alt text](<Screenshot 2025-12-26 152834.png>)
+![alt text](<Screenshot 2025-12-26 152847.png>)
+![alt text](<Screenshot 2025-12-26 152901.png>)
+![alt text](<Screenshot 2025-12-26 152915.png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
